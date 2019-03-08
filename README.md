@@ -26,7 +26,6 @@ Make a new command in ./commands/.  Each command is its own class.  3 simple com
 ```
 bundle install
 bundle exec rake db:create db:migrate
-bundle exec rackup
 bundle exec unicorn -p 9292
 ```
 
