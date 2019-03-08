@@ -1,0 +1,21 @@
+default: &default
+  adapter: postgresql
+  pool: 10
+  timeout: 5000
+  encoding: unicode
+  host: <%= ENV['POSTGRES_HOST'] %>
+  port: <%= ENV['POSTGRES_PORT'] %>
+  username: <%= ENV['POSTGRES_USERNAME'] %>
+  password: <%= ENV['POSTGRES_PASSWORD'] %>
+
+development:
+  <<: *default
+  database: slack_ruby_bot_server_development
+
+test:
+  <<: *default
+  database: slack_ruby_bot_server_test
+
+production:
+  <<: *default
+  database: slack_ruby_bot_server_production

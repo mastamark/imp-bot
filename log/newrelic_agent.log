@@ -1,0 +1,328 @@
+# Logfile created on 2019-03-07 14:07:44 -0800 by logger.rb/v1.2.7
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Environment: development
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : No known dispatcher detected.
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:07:44 -0800 penguin (2961)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Installing Net instrumentation
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:07:44 -0800 penguin (2961)] INFO : Finished instrumentation
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Environment: development
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : No known dispatcher detected.
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:08:20 -0800 penguin (2987)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Installing Net instrumentation
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:08:20 -0800 penguin (2987)] INFO : Finished instrumentation
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Environment: development
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : No known dispatcher detected.
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:08:50 -0800 penguin (2993)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Installing Net instrumentation
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:08:50 -0800 penguin (2993)] INFO : Finished instrumentation
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Environment: development
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : No known dispatcher detected.
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:09:23 -0800 penguin (3015)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Installing Net instrumentation
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:09:23 -0800 penguin (3015)] INFO : Finished instrumentation
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Environment: development
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : No known dispatcher detected.
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:09:34 -0800 penguin (3019)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Installing Net instrumentation
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:09:34 -0800 penguin (3019)] INFO : Finished instrumentation
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Environment: development
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : No known dispatcher detected.
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:13:48 -0800 penguin (3072)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Installing Net instrumentation
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:13:48 -0800 penguin (3072)] INFO : Finished instrumentation
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Environment: development
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : No known dispatcher detected.
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:16:46 -0800 penguin (3106)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Installing Net instrumentation
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:16:46 -0800 penguin (3106)] INFO : Finished instrumentation
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Environment: development
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : No known dispatcher detected.
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:17:39 -0800 penguin (3131)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Installing Net instrumentation
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:17:39 -0800 penguin (3131)] INFO : Finished instrumentation
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Environment: development
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : No known dispatcher detected.
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:26:00 -0800 penguin (3247)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Installing Net instrumentation
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:26:00 -0800 penguin (3247)] INFO : Finished instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Environment: development
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : No known dispatcher detected.
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:31:02 -0800 penguin (3316)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Installing Net instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Finished instrumentation
+[2019-03-07 14:31:02 -0800 penguin (3316)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Environment: development
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : No known dispatcher detected.
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:31:36 -0800 penguin (3326)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Installing Net instrumentation
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Finished instrumentation
+[2019-03-07 14:31:36 -0800 penguin (3326)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Environment: development
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : No known dispatcher detected.
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:38:36 -0800 penguin (3394)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Installing Net instrumentation
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:38:36 -0800 penguin (3394)] INFO : Finished instrumentation
+[2019-03-07 14:38:37 -0800 penguin (3394)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Environment: development
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : No known dispatcher detected.
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:43:21 -0800 penguin (3497)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Installing Net instrumentation
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Finished instrumentation
+[2019-03-07 14:43:21 -0800 penguin (3497)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Environment: development
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : No known dispatcher detected.
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:44:42 -0800 penguin (3527)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Installing Net instrumentation
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Finished instrumentation
+[2019-03-07 14:44:42 -0800 penguin (3527)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Environment: development
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : No known dispatcher detected.
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:55:45 -0800 penguin (3854)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Installing Net instrumentation
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Finished instrumentation
+[2019-03-07 14:55:45 -0800 penguin (3854)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Environment: development
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : No known dispatcher detected.
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:57:13 -0800 penguin (3882)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Installing Net instrumentation
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:57:13 -0800 penguin (3882)] INFO : Finished instrumentation
+[2019-03-07 14:57:14 -0800 penguin (3882)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Environment: development
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : No known dispatcher detected.
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Application: SlackRubyBotServer
+[2019-03-07 14:57:46 -0800 penguin (3901)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Installing Net instrumentation
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Finished instrumentation
+[2019-03-07 14:57:46 -0800 penguin (3901)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Environment: development
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : No known dispatcher detected.
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Application: SlackRubyBotServer
+[2019-03-07 15:00:16 -0800 penguin (3957)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Installing Net instrumentation
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 15:00:16 -0800 penguin (3957)] INFO : Finished instrumentation
+[2019-03-07 15:00:17 -0800 penguin (3957)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Environment: development
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : No known dispatcher detected.
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Application: SlackRubyBotServer
+[2019-03-07 15:01:36 -0800 penguin (3987)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Installing Net instrumentation
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 15:01:36 -0800 penguin (3987)] INFO : Finished instrumentation
+[2019-03-07 15:01:37 -0800 penguin (3987)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Environment: development
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : No known dispatcher detected.
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Application: SlackRubyBotServer
+[2019-03-07 15:13:55 -0800 penguin (4075)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Installing Net instrumentation
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Finished instrumentation
+[2019-03-07 15:13:55 -0800 penguin (4075)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Environment: development
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : No known dispatcher detected.
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Application: SlackRubyBotServer
+[2019-03-07 15:14:43 -0800 penguin (4104)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Installing Net instrumentation
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Finished instrumentation
+[2019-03-07 15:14:43 -0800 penguin (4104)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Environment: development
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : No known dispatcher detected.
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Application: SlackRubyBotServer
+[2019-03-07 15:16:36 -0800 penguin (4147)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Installing Net instrumentation
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Finished instrumentation
+[2019-03-07 15:16:36 -0800 penguin (4147)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Environment: development
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : No known dispatcher detected.
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Application: SlackRubyBotServer
+[2019-03-07 15:17:52 -0800 penguin (4177)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Installing Net instrumentation
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Finished instrumentation
+[2019-03-07 15:17:52 -0800 penguin (4177)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Environment: development
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : No known dispatcher detected.
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Application: SlackRubyBotServer
+[2019-03-07 16:22:32 -0800 penguin (4513)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Installing Net instrumentation
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Finished instrumentation
+[2019-03-07 16:22:32 -0800 penguin (4513)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Environment: development
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : No known dispatcher detected.
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Application: SlackRubyBotServer
+[2019-03-07 16:26:54 -0800 penguin (4584)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Installing Net instrumentation
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 16:26:54 -0800 penguin (4584)] INFO : Finished instrumentation
+[2019-03-07 16:26:55 -0800 penguin (4584)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Environment: development
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Dispatcher: unicorn
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Application: SlackRubyBotServer
+[2019-03-07 16:58:44 -0800 penguin (5308)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Installing Net instrumentation
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Finished instrumentation
+[2019-03-07 16:58:44 -0800 penguin (5308)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Environment: development
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : No known dispatcher detected.
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Application: SlackRubyBotServer
+[2019-03-07 16:59:03 -0800 penguin (5318)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Installing Net instrumentation
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Finished instrumentation
+[2019-03-07 16:59:03 -0800 penguin (5318)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Environment: development
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Dispatcher: unicorn
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Application: SlackRubyBotServer
+[2019-03-07 16:59:56 -0800 penguin (5357)] WARN : Agent configured not to send data in this environment.
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Installing SlackRubyBot instrumentation
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Installing New Relic supported Grape instrumentation
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Installing Net instrumentation
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Finished instrumentation
+[2019-03-07 16:59:56 -0800 penguin (5357)] INFO : Doing deferred dependency-detection before Rack startup
