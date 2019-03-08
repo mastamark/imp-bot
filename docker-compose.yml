@@ -1,0 +1,21 @@
+# Bargain-bin level docker-compose for local dev.
+
+version: '3'
+services:
+  postgres:
+    image: postgres:9.6
+    environment:
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-pantal00ns}
+  impbot:
+    image: mastamark/imp-bot:latest
+    #command: bundle exec rake db:create db:migrate
+    links:
+      - postgres
+    environment:
+      - RACK_ENV=development
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-pantal00ns}
+      - SLACK_CLIENT_ID=${SLACK_CLIENT_ID}
+      - SLACK_CLIENT_SECRET=${SLACK_CLIENT_SECRET}
+    ports:
+      - 9292:9292
