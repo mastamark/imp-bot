@@ -7,6 +7,7 @@ gem 'pg'
 gem 'rack-server-pages'
 gem 'rack-test'
 gem 'slack-ruby-bot-server'
+gem 'octokit'
 
 group :development, :test do
   gem 'standalone_migrations', '~> 5.2'

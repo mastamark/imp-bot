@@ -23,6 +23,7 @@ ENV PORT=9292 \
   POSTGRES_USERNAME=postgres \
   POSTGRES_PASSWORD=pantal00ns \
   SLACK_CLIENT_ID=abcd.efg \
-  SLACK_CLIENT_SECRET=aabbcc
+  SLACK_CLIENT_SECRET=aabbcc \
+  OCTOKIT_ACCESS_TOKEN=12345
 
 CMD bundle exec unicorn -p ${PORT}

@@ -9,9 +9,11 @@ General
 help               - get this helpful message
 whoami             - print your username
 echo               - repeats whatever you just said back to you
+release            - execute a github release (consuming OCTOKIT_ACCESS_TOKEN from env)
+                   -> call 'release help' for details
 
 
-Based off Open-Source at https://github.com/slack-ruby/slack-ruby-bot-server
+Source Repo: https://github.com/mastamark/imp-bot
 ```
   EOS
   def self.call(client, data, _match)
